@@ -62,3 +62,13 @@ Released under the MIT License. See `LICENSE` for details.
 ---
 
 _Part of [Fernando Azevedo's engineering portfolio](https://github.com/fernandofatech) — cloud architecture, serverless and developer productivity._
+
+## Portfolio / Portfólio
+
+- **Live / Ao vivo:** [RS Visao Real](https://github.com/fernandofatech/RS-Visao-Real)
+- **GitHub:** [fernandofatech/RS-Visao-Real](https://github.com/fernandofatech/RS-Visao-Real)
+- **Author / Autor:** [Fernando Francisco Azevedo](https://fernando.moretes.com) · [LinkedIn](https://www.linkedin.com/in/fernando-francisco-azevedo/) · [GitHub](https://github.com/fernandofatech)
+
+**PT-BR:** Public portfolio repository maintained by Fernando Moretes. Este repositório público faz parte do ecossistema de portfólio de Fernando Moretes, com foco em arquitetura de soluções, AWS, IA, automação e boas práticas de engenharia.
+
+**EN:** Public portfolio repository maintained by Fernando Moretes. This public repository is part of Fernando Moretes' portfolio ecosystem, focused on solution architecture, AWS, AI, automation, and pragmatic engineering practices.
